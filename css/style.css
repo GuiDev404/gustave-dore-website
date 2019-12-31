@@ -154,7 +154,7 @@ body{
     top: 35%;
     animation-name: effect-show-slow;
     animation-duration: 0.8s;
-    height: 280px;
+    height: 350px;
 }
 
 @keyframes effect-show-slow{
