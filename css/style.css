@@ -301,6 +301,10 @@ footer div.col-md-6.my-auto.center > a:hover{
     .banner  h1{
         font-size: 60px;    
     }
+    
+    .line{
+        width: 15vw;
+    }
 }
 
 @media screen and (max-width:450px){
