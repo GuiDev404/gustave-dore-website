@@ -296,6 +296,7 @@ footer div.col-md-6.my-auto.center > a:hover{
     .img-autorretrato{
         width:250px;
         height:250px;
+        border-width: 5px;
     }
 
     .banner  h1{
