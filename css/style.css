@@ -302,6 +302,15 @@ footer div.col-md-6.my-auto.center > a:hover{
     .btn-top{
         bottom: 325px;
     }
+    
+    .img-autorretrato{
+        width:250px;
+        height:250px;
+    }
+
+    .banner  h1{
+        font-size: 60px;    
+    }
 }
 
 @media screen and (max-width:450px){
